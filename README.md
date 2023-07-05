@@ -15,23 +15,15 @@ This project includes the following controllers and routes for the API:
 
 ## Getting Started
 
-To get started with the project, follow the instructions below.
-
-### Prerequisites
-
-- [Add Prerequisites]
-
-### Installation
-
-1. Dependencies
+- Dependencies
    
    `bundle install`
    
-2. Migrate the database:
+- Migrate the database:
    
    `rails db:migrate`
 
-3. Run the server:
+- Run the server:
 
    `rails server`
 
